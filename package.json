@@ -1,0 +1,25 @@
+{
+  "name": "groupchatapp-stage-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "add": "^2.0.6",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "jsdom": "^22.1.0",
+    "localStorage": "^1.0.4",
+    "node-localstorage": "^3.0.5",
+    "or": "^0.2.0",
+    "yarn": "^1.22.19"
+  }
+}
